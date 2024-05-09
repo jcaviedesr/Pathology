@@ -1,1 +1,1 @@
-# Pathology
+# Digital Pathology 
